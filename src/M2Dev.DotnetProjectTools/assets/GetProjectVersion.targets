@@ -1,0 +1,5 @@
+<Project>
+  <Target Name="_ExtractVersionMetadata">
+    <WriteLinesToFile File="$(_ProjectVersionMetadataFile)" Lines="$(Version)" />
+  </Target>
+</Project>
