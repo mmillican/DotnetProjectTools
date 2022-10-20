@@ -10,6 +10,8 @@ Special thanks to [@DamianEdwards](https://twitter.com/DamianEdwards) for his he
 
 The tool can be installed from Nuget, by executing:
 
+**NOTE: Coming soon! Not yet published on NuGet.**
+
 ```
 dotnet tool install --global m2dev.projecttools
 ```
